@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATBoureau
+- 👋 Hi, I’m @ATBourreau
 - 🌱 I’m currently learning Data Science at the Campus Numerique in the Alps, Grenoble
 <!---
 ATBoureau/ATBoureau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
